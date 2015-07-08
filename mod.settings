@@ -1,0 +1,6 @@
+name        = "ns_hera"
+source_dir  = "source/"
+output_dir  = "output/"
+description = [=[For use on the DiamondGamers.net server]=]
+image       = "preview.jpg"
+publish_id = "1C7436A5"
